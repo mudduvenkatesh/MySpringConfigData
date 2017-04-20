@@ -1,4 +1,4 @@
-lucky-word: welcome
+lucky-word: welcome venkatesh
 eureka:
   client:
     serviceUrl:
