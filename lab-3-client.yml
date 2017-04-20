@@ -1,4 +1,4 @@
-lucky-word: welcome venkatesh to Spring Boot!!!
+lucky-word: welcome venkatesh to Spring Boot.. updated!!!
 eureka:
   client:
     serviceUrl:
